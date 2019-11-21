@@ -1,10 +1,10 @@
 import React from 'react';
-import Login from './components/login.js';
+import Navbar from './components/navBar';
 
 
 
 const App = () =>(
-  <Login/>
+  <Navbar/>
 )
 
 export default App;
